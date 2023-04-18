@@ -1,0 +1,10 @@
+{
+    "name": "nombre-de-tu-proyecto",
+    "version": "1.0.0",
+    "description": "Descripción de tu proyecto",
+    "main": "index.js",
+    "dependencies": {
+      "nombre-de-dependencia": "^1.0.0"
+    }
+  }
+  
